@@ -222,7 +222,17 @@
 | 2  |   MVC 프레임워크 구현하기    |        [java-mvc](https://github.com/coli-geonwoo/java-mvc)        |  [step1](https://github.com/woowacourse/java-mvc/pull/669)   |  [step2](https://github.com/woowacourse/java-mvc/pull/755)   | [step3](https://github.com/woowacourse/java-mvc/pull/813)  |                             -                              | [트레](https://github.com/takoyakimchi) | 2024.09.16 ~ 2024.10.01 |
 | 3  |  JDBC 라이브러리 구현하기 |       [java-jdbc](https://github.com/coli-geonwoo/java-jdbc)       |  [step1](https://github.com/woowacourse/java-jdbc/pull/662)  |  [step2](https://github.com/woowacourse/java-jdbc/pull/710)  | [step3](https://github.com/woowacourse/java-jdbc/pull/764) | [step4](https://github.com/woowacourse/java-jdbc/pull/822) |   [로키](https://github.com/HaiSeong)   | 2021.10.03 ~ 2024.10.14 |
 | 4  |  DB 복제와 캐시   | [java-coupon](https://github.com/coli-geonwoo/java-coupon) | [step1](https://github.com/woowacourse/java-coupon/pull/26)  | [step2](https://github.com/woowacourse/java-coupon/pull/108) |                             -                              |                             -                              |  [폭포](https://github.com/BurningFalls)   | 2024.10.15 ~ 2024.10.17 |
-]
+
+### 📝 블로그 포스팅
+<details>
+    <summary>프로젝트 리팩터링 및 개선</summary>
+
+- [🙉 Test Fixture 생성전략에 대한 고민 feat) FixtureMonkey](https://hellobrocolli.tistory.com/183)
+- [🌐NAT gateway로 private 서브넷에서 외부 API 호출하기](https://hellobrocolli.tistory.com/185)
+- [인수 테스트로 사용자 유즈 케이스 파악하기](https://hellobrocolli.tistory.com/189)
+- [FCM 알림 비동기 + 이벤트 리스닝으로 리팩터링 하기 - 1편](https://hellobrocolli.tistory.com/190)
+- [FCM 알림 비동기 + 이벤트 리스닝으로 리팩터링 하기 - 2편(테스트)](https://hellobrocolli.tistory.com/192)
+</details>
 
 ## **📺 테코톡**
 >'10분 테코톡'이란  우아한테크코스 과정을 진행하며 크루(수강생)들이 동료들과 학습한 내용을 공유하고 이야기하는 시간입니다. 서로가 성장하기 위해 지식을 나누고 대화하며 생각해보는 시간으로 자기 주도적인 성장을 지향하는 우아한테크코스의 문화 중 하나입니다.

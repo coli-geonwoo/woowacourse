@@ -177,6 +177,24 @@
 - [CD 배포 스크립트 실행 중 오류가 발생한다면? : tag를 활용한 롤백 전략 구축 하기](https://hellobrocolli.tistory.com/184)
 </details>
 <details>
+    <summary>기술 토론 속기록</summary>
+
+- [API 문서화 도구 Rest Docs vs Swagger](https://github.com/woowacourse-6th-team99/2024-coristotle/discussions/2)
+- [패키지 구조: 계층형 구조 vs 도메인형 구조](https://github.com/woowacourse-6th-team99/2024-coristotle/discussions/3)
+- [데이터베이스 중복 데이터 방지: EXISTS 조회 vs UNIQUE 추가 ](https://github.com/woowacourse-6th-team99/2024-coristotle/discussions/4)
+- [Lombok 사용은 옳은가 ](https://github.com/woowacourse-6th-team99/2024-coristotle/discussions/5)
+- [검증의 책임은 DTO와 도메인 중 어디에 있는가? ](https://github.com/woowacourse-6th-team99/2024-coristotle/discussions/6)
+- [DTO 침투 레이어를 어디까지 해야 하는가?](https://github.com/woowacourse-6th-team99/2024-coristotle/discussions/7)
+- [is TDD Dead?](https://github.com/woowacourse-6th-team99/2024-coristotle/discussions/8)
+- [슬라이스 테스트 vs 통합 테스트](https://github.com/woowacourse-6th-team99/2024-coristotle/discussions/10)
+- [정적 유틸 클래스는 어떤 기준으로 만들어야 할까?](https://github.com/woowacourse-6th-team99/2024-coristotle/discussions/11)
+- [서비스 테스트의 @Transactional을 사용해야 한다](https://github.com/woowacourse-6th-team99/2024-coristotle/discussions/17)
+- [싱글톤은 안티 패턴일까?](https://github.com/woowacourse-6th-team99/2024-coristotle/discussions/19)
+- [지역변수에 final 키워드를 사용해야 한다](https://github.com/woowacourse-6th-team99/2024-coristotle/discussions/22)
+- [지역변수에 var 키워드를 사용해야 한다](https://github.com/woowacourse-6th-team99/2024-coristotle/discussions/23)
+- [JPA 양방향 연관관계는 무조건 좋지 않을까?](https://github.com/woowacourse-6th-team99/2024-coristotle/discussions/25)
+</details>
+<details>
     <summary>회고</summary>
 
 - [[Lv3 글쓰기] 테이크 오프](https://github.com/coli-geonwoo/woowa-writing/blob/main/.idea/Lv3.md)

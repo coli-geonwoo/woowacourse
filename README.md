@@ -7,7 +7,7 @@
 <br><br>우아한테크코스는 일반 사용자용 서비스를 개발하는 회사가 필요로 하는 역량을 가진 프로그래머를 양성하기 위한 교육입니다. 우리의 목표는 자기 주도적으로 학습하고 성장하고 싶은 개발자를 위한 교육을 만드는 것입니다.
 
 <div style="text-align: center;">
-<img src="https://user-images.githubusercontent.com/45876793/137439663-c3bba170-d2c9-4d20-9fef-90ea78266d42.jpeg" width="45%" alt="techcourse_poster_3nd_white"> <img src="https://user-images.githubusercontent.com/45876793/137439650-064b7d56-db9a-451d-991b-819d865740a1.jpeg" width="45%" alt="techcourse_poster_3nd_black"> 
+<img src="\우테코 포스터.png", width="80%" alt="techcourse_poster_3nd_white"> 
 </div>
 
 <br>

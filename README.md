@@ -16,15 +16,15 @@
 
 ### 🗓 기간
 - 프리코스: 2023.10.19 ~ 2023.11.16
-- 최종 코딩 테스트: 2020.12.16
+- 최종 코딩 테스트: 2023.12.16
 
 ### 🗄 정리
 | No |   Mission    |                                           Repository                                            |                                       PR                                       |         Period          |   Note    |
 |:------:|:------------:|:-----------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|:-----------------------:|:---------:|
 | 1 |   숫자 야구 게임   |      [java-baseball-6](https://github.com/coli-geonwoo/java-baseball-6/tree/coli-geonwoo)       | [PR 보러가기](https://github.com/woowacourse-precourse/java-baseball-6/pull/1269)  | 2023.10.19 ~ 2023.10.25 |     -     |
 | 2 |  자동차 경주 게임   |     [java-racingcar-6](https://github.com/coli-geonwoo/java-racingcar-6/tree/coli-geonwoo)      | [PR 보러가기](https://github.com/woowacourse-precourse/java-racingcar-6/pull/1110) | 2023.10.26 ~ 2023.11.01 |     -     |
-| 3 |    로또 미션     |         [java-lotto-6](https://github.com/coli-geonwoo/java-lotto-6/tree/coli-geonwoo)          |  [PR 보러가기](https://github.com/woowacourse-precourse/java-lotto-6/pull/361)   | 2023.11.02 ~ 2023.11.8  |     -     |
-| 4 |  크리스마스 프로모션  |              [java-christmas-6](https://github.com/coli-geonwoo/java-christmas-6)               |                                       -                                        | 2023.11.9 ~ 2023.11.15  |     -     |
+| 3 |    로또 미션     |         [java-lotto-6](https://github.com/coli-geonwoo/java-lotto-6/tree/coli-geonwoo)          |  [PR 보러가기](https://github.com/woowacourse-precourse/java-lotto-6/pull/361)   | 2023.11.02 ~ 2023.11.08 |     -     |
+| 4 |  크리스마스 프로모션  |              [java-christmas-6](https://github.com/coli-geonwoo/java-christmas-6)               |                                       -                                        | 2023.11.09 ~ 2023.11.15 |     -     |
 | 5 |      온콜      | [java-oncall-coli-geonwoo](https://github.com/coli-geonwoo/java-oncall-coli-geonwoo/tree/main)  |                                       -                                        |       2023.12.16        | 최종 코딩 테스트 |
 
 ### 📝 블로그 포스팅
@@ -49,7 +49,7 @@
 
 ## **🌘 Level 1 - Java 학습하기**
 ### 🗓 기간
-- 2024.02.13 ~ 2024.04.015
+- 2024.02.13 ~ 2024.04.15
 
 ### 🚗 학습 목표
 >- 자바 프로그래밍 언어에 대한 기본 문법을 익혀 프로그래밍하는 경험을 한다.
@@ -139,7 +139,6 @@
 - [Spring- 유효성 검사](https://hellobrocolli.tistory.com/170)
 - [Spring- 웹 요청-응답 과정](https://hellobrocolli.tistory.com/176)
 - [우테코 미션으로 찍먹한 QueryDsl : 동적쿼리](https://hellobrocolli.tistory.com/175)
--
 </details>
 <br>
 
